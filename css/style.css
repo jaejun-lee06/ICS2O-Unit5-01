@@ -1,0 +1,12 @@
+/* Created by: Jaejun Lee
+* Created on: Apr 2022
+* This file contains the CSS for index.html
+*/
+
+
+p {
+  color: black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  padding-top: 5pt;
+}
