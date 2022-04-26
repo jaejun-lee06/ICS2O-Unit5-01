@@ -4,6 +4,8 @@
 
 "use strict";
 
+const randomNumber = Math.floor(Math.random() * 6) + 1;
+
 /**
  * This function updates the slider value.
  */
